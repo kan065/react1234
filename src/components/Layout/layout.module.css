@@ -1,0 +1,14 @@
+.root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.toolBar {
+  height: 100px;
+  background-color: green;
+}
+
+.content {
+  flex: 1;
+}

@@ -1,0 +1,13 @@
+.todoItemRoot {
+  margin-top: 20px;
+  border: 1px solid grey;
+  border-radius: 15px;
+}
+
+.todoItemRoot:hover {
+  background-color: grey;
+}
+
+.todoItemContent {
+  padding: 20px 80px;
+}

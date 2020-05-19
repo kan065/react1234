@@ -1,0 +1,13 @@
+.reminderItemRoot {
+  margin-top: 20px;
+  border: 1px solid grey;
+  border-radius: 15px;
+}
+
+.reminderItemRoot:hover {
+  background-color: grey;
+}
+
+.reminderItemContent {
+  padding: 20px 80px;
+}

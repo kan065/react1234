@@ -1,0 +1,33 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Vask huset",
+      "description": "Må vaske gulv, vegger og tak på stue, soverom og bad."
+    },
+    {
+      "id": 2,
+      "title": "Ta ut søppel",
+      "description": "Husk å ta på sko!"
+    },
+    {
+      "id": 3,
+      "title": "Puss tenner",
+      "description": "Kjøp mer Colgate++"
+    },
+    {
+      "title": "lol",
+      "description": "ffff",
+      "id": 4
+    }
+  ],
+  "reminders": [
+    {
+      "id": 3,
+      "title": "Reminder#3",
+      "description": "Kjøp mer Colgate++",
+      "date": "2020-01-01T23:28:56.782Z",
+      "notify": false
+    }
+  ]
+}
